@@ -2,4 +2,4 @@
 
 A knob control view implementation in RubyMotion.
 
-![Alt text](/resources/Screenshot.jpg)
+![Alt screenshot](https://github.com/rjowens/KnobView/raw/master/resources/Screenshot.jpg)
