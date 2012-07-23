@@ -45,9 +45,5 @@ class RootViewController < UIViewController
       @label3.textColor = @color1      
     end
   end
-  
-  def did_start_rotating(sender)
-    puts "#{sender} started rotating"
-  end
-  
+    
 end
