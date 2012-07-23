@@ -1,4 +1,4 @@
-=KnobView
+## KnobView
 
 A knob control view implementation in RubyMotion.
 
